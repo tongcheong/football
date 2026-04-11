@@ -1,0 +1,603 @@
+Date,Round,Team,Venue,GF,GA,Opponent,Shots,Shots on Target(SoT),SoT%,Goals/Shot,Goals/SoT
+2025-08-16,Matchweek 1,Barcelona,Away,3,0,Mallorca,24,8,33.3,0.13,0.38
+2025-08-23,Matchweek 2,Barcelona,Away,3,2,Levante,26,10,38.5,0.08,0.2
+2025-08-31,Matchweek 3,Barcelona,Away,1,1,Rayo Vallecano,12,3,25,0,0
+2025-09-14,Matchweek 4,Barcelona,Home,6,0,Valencia,24,10,41.7,0.25,0.6
+2025-09-21,Matchweek 5,Barcelona,Home,3,0,Getafe,16,7,43.8,0.19,0.43
+2025-09-25,Matchweek 6,Barcelona,Away,3,1,Oviedo,22,10,45.5,0.14,0.3
+2025-09-28,Matchweek 7,Barcelona,Home,2,1,Real Sociedad,22,12,54.5,0.09,0.17
+2025-10-05,Matchweek 8,Barcelona,Away,1,4,Sevilla,17,8,47.1,0.06,0.13
+2025-10-18,Matchweek 9,Barcelona,Home,2,1,Girona,27,9,33.3,0.07,0.22
+2025-10-26,Matchweek 10,Barcelona,Away,1,2,Real Madrid,15,6,40,0.07,0.17
+2025-11-02,Matchweek 11,Barcelona,Home,3,1,Elche,17,5,29.4,0.18,0.6
+2025-11-09,Matchweek 12,Barcelona,Away,4,2,Celta Vigo,21,9,42.9,0.14,0.33
+2025-11-22,Matchweek 13,Barcelona,Home,4,0,Athletic Club,19,7,36.8,0.21,0.57
+2025-11-29,Matchweek 14,Barcelona,Home,3,1,Alavés,18,6,33.3,0.17,0.5
+2025-12-02,Matchweek 19,Barcelona,Home,3,1,Atlético Madrid,19,6,31.6,0.16,0.5
+2025-12-06,Matchweek 15,Barcelona,Away,5,3,Real Betis,16,8,50,0.25,0.5
+2025-12-13,Matchweek 16,Barcelona,Home,2,0,Osasuna,24,7,29.2,0.08,0.29
+2025-12-21,Matchweek 17,Barcelona,Away,2,0,Villarreal,19,5,26.3,0.05,0.2
+2026-01-03,Matchweek 18,Barcelona,Away,2,0,Espanyol,15,6,40,0.13,0.33
+2026-01-18,Matchweek 20,Barcelona,Away,1,2,Real Sociedad,25,9,36,0.04,0.11
+2026-01-25,Matchweek 21,Barcelona,Home,3,0,Oviedo,15,7,46.7,0.2,0.43
+2026-01-31,Matchweek 22,Barcelona,Away,3,1,Elche,30,8,26.7,0.1,0.38
+2026-02-07,Matchweek 23,Barcelona,Home,3,0,Mallorca,24,7,29.2,0.13,0.43
+2026-02-16,Matchweek 24,Barcelona,Away,1,2,Girona,27,4,14.8,0.04,0.25
+2026-02-22,Matchweek 25,Barcelona,Home,3,0,Levante,22,9,40.9,0.14,0.33
+2026-02-28,Matchweek 26,Barcelona,Home,4,1,Villarreal,19,8,42.1,0.21,0.5
+2026-03-07,Matchweek 27,Barcelona,Away,1,0,Athletic Club,7,2,28.6,0.14,0.5
+2026-03-15,Matchweek 28,Barcelona,Home,5,2,Sevilla,13,8,61.5,0.23,0.38
+2026-03-22,Matchweek 29,Barcelona,Home,1,0,Rayo Vallecano,15,4,26.7,0.07,0.25
+2026-04-04,Matchweek 30,Barcelona,Away,2,1,Atlético Madrid,22,8,36.4,0.09,0.25
+2025-08-19,Matchweek 1,Real Madrid,Home,1,0,Osasuna,18,5,27.8,0,0
+2025-08-24,Matchweek 2,Real Madrid,Away,3,0,Oviedo,26,10,38.5,0.12,0.3
+2025-08-30,Matchweek 3,Real Madrid,Home,2,1,Mallorca,17,7,41.2,0.12,0.29
+2025-09-13,Matchweek 4,Real Madrid,Away,2,1,Real Sociedad,16,6,37.5,0.13,0.33
+2025-09-20,Matchweek 5,Real Madrid,Home,2,0,Espanyol,16,5,31.3,0.13,0.4
+2025-09-23,Matchweek 6,Real Madrid,Away,4,1,Levante,24,10,41.7,0.13,0.3
+2025-09-27,Matchweek 7,Real Madrid,Away,2,5,Atlético Madrid,6,2,33.3,0.33,1
+2025-10-04,Matchweek 8,Real Madrid,Home,3,1,Villarreal,26,7,26.9,0.08,0.29
+2025-10-19,Matchweek 9,Real Madrid,Away,1,0,Getafe,23,10,43.5,0.04,0.1
+2025-10-26,Matchweek 10,Real Madrid,Home,2,1,Barcelona,23,10,43.5,0.09,0.2
+2025-11-01,Matchweek 11,Real Madrid,Home,4,0,Valencia,21,11,52.4,0.14,0.27
+2025-11-09,Matchweek 12,Real Madrid,Away,0,0,Rayo Vallecano,21,5,23.8,0,0
+2025-11-23,Matchweek 13,Real Madrid,Away,2,2,Elche,20,7,35,0.1,0.29
+2025-11-30,Matchweek 14,Real Madrid,Away,1,1,Girona,25,4,16,0,0
+2025-12-03,Matchweek 19,Real Madrid,Away,3,0,Athletic Club,13,8,61.5,0.23,0.38
+2025-12-07,Matchweek 15,Real Madrid,Home,0,2,Celta Vigo,23,7,30.4,0,0
+2025-12-14,Matchweek 16,Real Madrid,Away,2,1,Alavés,13,6,46.2,0.15,0.33
+2025-12-20,Matchweek 17,Real Madrid,Home,2,0,Sevilla,18,8,44.4,0.06,0.13
+2026-01-04,Matchweek 18,Real Madrid,Home,5,1,Real Betis,19,9,47.4,0.26,0.56
+2026-01-17,Matchweek 20,Real Madrid,Home,2,0,Levante,26,11,42.3,0.04,0.09
+2026-01-24,Matchweek 21,Real Madrid,Away,2,0,Villarreal,14,4,28.6,0.07,0.25
+2026-02-01,Matchweek 22,Real Madrid,Home,2,1,Rayo Vallecano,16,6,37.5,0.06,0.17
+2026-02-08,Matchweek 23,Real Madrid,Away,2,0,Valencia,11,6,54.5,0.18,0.33
+2026-02-14,Matchweek 24,Real Madrid,Home,4,1,Real Sociedad,11,5,45.5,0.18,0.4
+2026-02-21,Matchweek 25,Real Madrid,Away,1,2,Osasuna,15,5,33.3,0.07,0.2
+2026-03-02,Matchweek 26,Real Madrid,Home,0,1,Getafe,18,7,38.9,0,0
+2026-03-06,Matchweek 27,Real Madrid,Away,2,1,Celta Vigo,14,3,21.4,0.14,0.67
+2026-03-14,Matchweek 28,Real Madrid,Home,4,1,Elche,14,6,42.9,0.29,0.67
+2026-03-22,Matchweek 29,Real Madrid,Home,3,2,Atlético Madrid,17,10,58.8,0.12,0.2
+2026-04-04,Matchweek 30,Real Madrid,Away,1,2,Mallorca,15,6,40,0.07,0.17
+2026-04-10,Matchweek 31,Real Madrid,Home,1,1,Girona,22,9,40.9,0.05,0.11
+2025-08-17,Matchweek 1,Atlético Madrid,Away,1,2,Espanyol,15,4,26.7,0.07,0.25
+2025-08-23,Matchweek 2,Atlético Madrid,Home,1,1,Elche,13,6,46.2,0.08,0.17
+2025-08-30,Matchweek 3,Atlético Madrid,Away,1,1,Alavés,15,6,40,0.07,0.17
+2025-09-13,Matchweek 4,Atlético Madrid,Home,2,0,Villarreal,8,3,37.5,0.25,0.67
+2025-09-21,Matchweek 5,Atlético Madrid,Away,1,1,Mallorca,12,7,58.3,0.08,0.14
+2025-09-24,Matchweek 6,Atlético Madrid,Home,3,2,Rayo Vallecano,20,8,40,0.15,0.38
+2025-09-27,Matchweek 7,Atlético Madrid,Home,5,2,Real Madrid,13,7,53.8,0.31,0.57
+2025-10-05,Matchweek 8,Atlético Madrid,Away,1,1,Celta Vigo,6,1,16.7,0,0
+2025-10-18,Matchweek 9,Atlético Madrid,Home,1,0,Osasuna,18,9,50,0.06,0.11
+2025-10-27,Matchweek 10,Atlético Madrid,Away,2,0,Real Betis,9,4,44.4,0.22,0.5
+2025-11-01,Matchweek 11,Atlético Madrid,Home,3,0,Sevilla,15,6,40,0.13,0.33
+2025-11-08,Matchweek 12,Atlético Madrid,Home,3,1,Levante,25,10,40,0.08,0.2
+2025-11-23,Matchweek 13,Atlético Madrid,Away,1,0,Getafe,13,6,46.2,0,0
+2025-11-29,Matchweek 14,Atlético Madrid,Home,2,0,Oviedo,14,8,57.1,0.14,0.25
+2025-12-02,Matchweek 19,Atlético Madrid,Away,1,3,Barcelona,7,2,28.6,0.14,0.5
+2025-12-06,Matchweek 15,Atlético Madrid,Away,0,1,Athletic Club,7,3,42.9,0,0
+2025-12-13,Matchweek 16,Atlético Madrid,Home,2,1,Valencia,10,6,60,0.2,0.33
+2025-12-21,Matchweek 17,Atlético Madrid,Away,3,0,Girona,14,6,42.9,0.21,0.5
+2026-01-04,Matchweek 18,Atlético Madrid,Away,1,1,Real Sociedad,10,2,20,0.1,0.5
+2026-01-18,Matchweek 20,Atlético Madrid,Home,1,0,Alavés,23,6,26.1,0.04,0.17
+2026-01-25,Matchweek 21,Atlético Madrid,Home,3,0,Mallorca,17,8,47.1,0.12,0.25
+2026-01-31,Matchweek 22,Atlético Madrid,Away,0,0,Levante,10,4,40,0,0
+2026-02-08,Matchweek 23,Atlético Madrid,Home,0,1,Real Betis,10,5,50,0,0
+2026-02-15,Matchweek 24,Atlético Madrid,Away,0,3,Rayo Vallecano,9,4,44.4,0,0
+2026-02-21,Matchweek 25,Atlético Madrid,Home,4,2,Espanyol,18,9,50,0.22,0.44
+2026-02-28,Matchweek 26,Atlético Madrid,Away,1,0,Oviedo,12,1,8.3,0.08,1
+2026-03-07,Matchweek 27,Atlético Madrid,Home,3,2,Real Sociedad,24,9,37.5,0.13,0.33
+2026-03-14,Matchweek 28,Atlético Madrid,Home,1,0,Getafe,16,5,31.3,0.06,0.2
+2026-03-22,Matchweek 29,Atlético Madrid,Away,2,3,Real Madrid,13,7,53.8,0.15,0.29
+2026-04-04,Matchweek 30,Atlético Madrid,Home,1,2,Barcelona,6,2,33.3,0.17,0.5
+2025-08-15,Matchweek 1,Villarreal,Home,2,0,Oviedo,25,10,40,0.08,0.2
+2025-08-24,Matchweek 2,Villarreal,Home,5,0,Girona,19,7,36.8,0.26,0.71
+2025-08-31,Matchweek 3,Villarreal,Away,1,1,Celta Vigo,8,3,37.5,0.13,0.33
+2025-09-13,Matchweek 4,Villarreal,Away,0,2,Atlético Madrid,8,1,12.5,0,0
+2025-09-20,Matchweek 5,Villarreal,Home,2,1,Osasuna,26,8,30.8,0.08,0.25
+2025-09-23,Matchweek 6,Villarreal,Away,2,1,Sevilla,12,5,41.7,0.17,0.4
+2025-09-27,Matchweek 7,Villarreal,Home,1,0,Athletic Club,14,5,35.7,0.07,0.2
+2025-10-04,Matchweek 8,Villarreal,Away,1,3,Real Madrid,9,2,22.2,0.11,0.5
+2025-10-18,Matchweek 9,Villarreal,Home,2,2,Real Betis,7,3,42.9,0.29,0.67
+2025-10-25,Matchweek 10,Villarreal,Away,2,0,Valencia,12,5,41.7,0.08,0.2
+2025-11-01,Matchweek 11,Villarreal,Home,4,0,Rayo Vallecano,16,7,43.8,0.25,0.57
+2025-11-08,Matchweek 12,Villarreal,Away,2,0,Espanyol,9,3,33.3,0.22,0.67
+2025-11-22,Matchweek 13,Villarreal,Home,2,1,Mallorca,14,7,50,0.14,0.29
+2025-11-30,Matchweek 14,Villarreal,Away,3,2,Real Sociedad,10,5,50,0.3,0.6
+2025-12-06,Matchweek 15,Villarreal,Home,2,0,Getafe,10,5,50,0.2,0.4
+2025-12-21,Matchweek 17,Villarreal,Home,0,2,Barcelona,14,5,35.7,0,0
+2026-01-03,Matchweek 18,Villarreal,Away,3,1,Elche,12,4,33.3,0.25,0.75
+2026-01-10,Matchweek 19,Villarreal,Home,3,1,Alavés,11,4,36.4,0.27,0.75
+2026-01-17,Matchweek 20,Villarreal,Away,0,2,Real Betis,9,3,33.3,0,0
+2026-01-24,Matchweek 21,Villarreal,Home,0,2,Real Madrid,8,1,12.5,0,0
+2026-01-31,Matchweek 22,Villarreal,Away,2,2,Osasuna,5,4,80,0.2,0.25
+2026-02-09,Matchweek 23,Villarreal,Home,4,1,Espanyol,10,3,30,0.3,1
+2026-02-14,Matchweek 24,Villarreal,Away,1,2,Getafe,8,2,25,0.13,0.5
+2026-02-18,Matchweek 16,Villarreal,Away,1,0,Levante,15,6,40,0.07,0.17
+2026-02-22,Matchweek 25,Villarreal,Home,2,1,Valencia,12,5,41.7,0.08,0.2
+2026-02-28,Matchweek 26,Villarreal,Away,1,4,Barcelona,6,1,16.7,0.17,1
+2026-03-08,Matchweek 27,Villarreal,Home,2,1,Elche,16,7,43.8,0.13,0.29
+2026-03-13,Matchweek 28,Villarreal,Away,1,1,Alavés,10,4,40,0.1,0.25
+2026-03-20,Matchweek 29,Villarreal,Home,3,1,Real Sociedad,21,10,47.6,0.14,0.3
+2026-04-06,Matchweek 30,Villarreal,Away,0,1,Girona,9,0,0,0,0
+2025-08-18,Matchweek 1,Real Betis,Away,1,1,Elche,12,4,33.3,0.08,0.25
+2025-08-22,Matchweek 2,Real Betis,Home,1,0,Alavés,16,5,31.3,0.06,0.2
+2025-08-27,Matchweek 6,Real Betis,Away,1,1,Celta Vigo,7,2,28.6,0.14,0.5
+2025-08-31,Matchweek 3,Real Betis,Home,1,2,Athletic Club,9,2,22.2,0.11,0.5
+2025-09-14,Matchweek 4,Real Betis,Away,2,2,Levante,28,9,32.1,0.07,0.22
+2025-09-19,Matchweek 5,Real Betis,Home,3,1,Real Sociedad,21,6,28.6,0.1,0.33
+2025-09-28,Matchweek 7,Real Betis,Home,2,0,Osasuna,12,6,50,0.17,0.33
+2025-10-05,Matchweek 8,Real Betis,Away,2,1,Espanyol,12,3,25,0.17,0.67
+2025-10-18,Matchweek 9,Real Betis,Away,2,2,Villarreal,16,3,18.8,0.13,0.67
+2025-10-27,Matchweek 10,Real Betis,Home,0,2,Atlético Madrid,17,5,29.4,0,0
+2025-11-02,Matchweek 11,Real Betis,Home,3,0,Mallorca,15,8,53.3,0.2,0.38
+2025-11-09,Matchweek 12,Real Betis,Away,1,1,Valencia,9,2,22.2,0.11,0.5
+2025-11-23,Matchweek 13,Real Betis,Home,1,1,Girona,23,7,30.4,0.04,0.14
+2025-11-30,Matchweek 14,Real Betis,Away,2,0,Sevilla,9,4,44.4,0.22,0.5
+2025-12-06,Matchweek 15,Real Betis,Home,3,5,Barcelona,17,5,29.4,0.12,0.4
+2025-12-15,Matchweek 16,Real Betis,Away,0,0,Rayo Vallecano,13,6,46.2,0,0
+2025-12-21,Matchweek 17,Real Betis,Home,4,0,Getafe,19,8,42.1,0.21,0.5
+2026-01-04,Matchweek 18,Real Betis,Away,1,5,Real Madrid,13,5,38.5,0.08,0.2
+2026-01-10,Matchweek 19,Real Betis,Away,1,1,Oviedo,15,6,40,0.07,0.17
+2026-01-17,Matchweek 20,Real Betis,Home,2,0,Villarreal,15,6,40,0.13,0.33
+2026-01-25,Matchweek 21,Real Betis,Away,1,2,Alavés,18,4,22.2,0.06,0.25
+2026-02-01,Matchweek 22,Real Betis,Home,2,1,Valencia,14,2,14.3,0.07,0.5
+2026-02-08,Matchweek 23,Real Betis,Away,1,0,Atlético Madrid,8,4,50,0.13,0.25
+2026-02-15,Matchweek 24,Real Betis,Away,2,1,Mallorca,17,8,47.1,0.12,0.25
+2026-02-21,Matchweek 25,Real Betis,Home,1,1,Rayo Vallecano,14,3,21.4,0.07,0.33
+2026-03-01,Matchweek 26,Real Betis,Home,2,2,Sevilla,9,2,22.2,0.22,1
+2026-03-08,Matchweek 27,Real Betis,Away,0,2,Getafe,14,5,35.7,0,0
+2026-03-15,Matchweek 28,Real Betis,Home,1,1,Celta Vigo,19,6,31.6,0.05,0.17
+2026-03-22,Matchweek 29,Real Betis,Away,1,2,Athletic Club,11,3,27.3,0.09,0.33
+2026-04-04,Matchweek 30,Real Betis,Home,0,0,Espanyol,19,6,31.6,0,0
+2025-08-17,Matchweek 1,Celta Vigo,Home,0,2,Getafe,11,3,27.3,0,0
+2025-08-23,Matchweek 2,Celta Vigo,Away,1,1,Mallorca,8,2,25,0.13,0.5
+2025-08-27,Matchweek 6,Celta Vigo,Home,1,1,Real Betis,14,5,35.7,0.07,0.2
+2025-08-31,Matchweek 3,Celta Vigo,Home,1,1,Villarreal,10,2,20,0.1,0.5
+2025-09-14,Matchweek 4,Celta Vigo,Home,1,1,Girona,21,7,33.3,0,0
+2025-09-21,Matchweek 5,Celta Vigo,Away,1,1,Rayo Vallecano,9,5,55.6,0.11,0.2
+2025-09-28,Matchweek 7,Celta Vigo,Away,1,2,Elche,8,2,25,0.13,0.5
+2025-10-05,Matchweek 8,Celta Vigo,Home,1,1,Atlético Madrid,18,4,22.2,0.06,0.25
+2025-10-19,Matchweek 9,Celta Vigo,Home,1,1,Real Sociedad,4,1,25,0.25,1
+2025-10-26,Matchweek 10,Celta Vigo,Away,3,2,Osasuna,11,5,45.5,0.27,0.6
+2025-11-02,Matchweek 11,Celta Vigo,Away,2,1,Levante,20,6,30,0.1,0.33
+2025-11-09,Matchweek 12,Celta Vigo,Home,2,4,Barcelona,5,3,60,0.4,0.67
+2025-11-22,Matchweek 13,Celta Vigo,Away,1,0,Alavés,7,4,57.1,0,0
+2025-11-30,Matchweek 14,Celta Vigo,Home,0,1,Espanyol,11,4,36.4,0,0
+2025-12-07,Matchweek 15,Celta Vigo,Away,2,0,Real Madrid,7,5,71.4,0.29,0.4
+2025-12-14,Matchweek 16,Celta Vigo,Home,2,0,Athletic Club,5,2,40,0.4,1
+2025-12-20,Matchweek 17,Celta Vigo,Away,0,0,Oviedo,6,2,33.3,0,0
+2026-01-03,Matchweek 18,Celta Vigo,Home,4,1,Valencia,12,6,50,0.25,0.5
+2026-01-12,Matchweek 19,Celta Vigo,Away,1,0,Sevilla,9,7,77.8,0,0
+2026-01-18,Matchweek 20,Celta Vigo,Home,3,0,Rayo Vallecano,11,7,63.6,0.18,0.29
+2026-01-25,Matchweek 21,Celta Vigo,Away,1,3,Real Sociedad,17,4,23.5,0.06,0.25
+2026-02-01,Matchweek 22,Celta Vigo,Away,0,0,Getafe,5,1,20,0,0
+2026-02-06,Matchweek 23,Celta Vigo,Home,1,2,Osasuna,18,4,22.2,0,0
+2026-02-14,Matchweek 24,Celta Vigo,Away,2,2,Espanyol,14,5,35.7,0.14,0.4
+2026-02-22,Matchweek 25,Celta Vigo,Home,2,0,Mallorca,20,7,35,0.05,0.14
+2026-03-01,Matchweek 26,Celta Vigo,Away,2,1,Girona,6,5,83.3,0.17,0.2
+2026-03-06,Matchweek 27,Celta Vigo,Home,1,2,Real Madrid,8,4,50,0.13,0.25
+2026-03-15,Matchweek 28,Celta Vigo,Away,1,1,Real Betis,7,3,42.9,0.14,0.33
+2026-03-22,Matchweek 29,Celta Vigo,Home,3,4,Alavés,12,5,41.7,0.25,0.6
+2026-04-05,Matchweek 30,Celta Vigo,Away,3,2,Valencia,9,5,55.6,0.33,0.6
+2025-08-17,Matchweek 1,Espanyol,Home,2,1,Atlético Madrid,9,5,55.6,0.22,0.4
+2025-08-24,Matchweek 2,Espanyol,Away,2,2,Real Sociedad,14,3,21.4,0.07,0.33
+2025-08-31,Matchweek 3,Espanyol,Home,1,0,Osasuna,10,4,40,0.1,0.25
+2025-09-15,Matchweek 4,Espanyol,Home,3,2,Mallorca,9,3,33.3,0.22,0.67
+2025-09-20,Matchweek 5,Espanyol,Away,0,2,Real Madrid,8,1,12.5,0,0
+2025-09-23,Matchweek 6,Espanyol,Home,2,2,Valencia,21,10,47.6,0.1,0.2
+2025-09-26,Matchweek 7,Espanyol,Away,0,0,Girona,20,5,25,0,0
+2025-10-05,Matchweek 8,Espanyol,Home,1,2,Real Betis,14,5,35.7,0.07,0.2
+2025-10-17,Matchweek 9,Espanyol,Away,2,0,Oviedo,19,10,52.6,0.11,0.2
+2025-10-25,Matchweek 10,Espanyol,Home,1,0,Elche,16,7,43.8,0.06,0.14
+2025-11-02,Matchweek 11,Espanyol,Away,1,2,Alavés,18,2,11.1,0.06,0.5
+2025-11-08,Matchweek 12,Espanyol,Home,0,2,Villarreal,14,3,21.4,0,0
+2025-11-24,Matchweek 13,Espanyol,Home,2,1,Sevilla,8,5,62.5,0.25,0.4
+2025-11-30,Matchweek 14,Espanyol,Away,1,0,Celta Vigo,9,2,22.2,0.11,0.5
+2025-12-07,Matchweek 15,Espanyol,Home,1,0,Rayo Vallecano,9,2,22.2,0,0
+2025-12-13,Matchweek 16,Espanyol,Away,1,0,Getafe,6,4,66.7,0.17,0.25
+2025-12-22,Matchweek 17,Espanyol,Away,2,1,Athletic Club,10,5,50,0.2,0.4
+2026-01-03,Matchweek 18,Espanyol,Home,0,2,Barcelona,14,7,50,0,0
+2026-01-11,Matchweek 19,Espanyol,Away,1,1,Levante,19,3,15.8,0.05,0.33
+2026-01-16,Matchweek 20,Espanyol,Home,0,2,Girona,14,2,14.3,0,0
+2026-01-24,Matchweek 21,Espanyol,Away,2,3,Valencia,16,6,37.5,0.06,0.17
+2026-01-30,Matchweek 22,Espanyol,Home,1,2,Alavés,10,3,30,0.1,0.33
+2026-02-09,Matchweek 23,Espanyol,Away,1,4,Villarreal,9,2,22.2,0.11,0.5
+2026-02-14,Matchweek 24,Espanyol,Home,2,2,Celta Vigo,9,3,33.3,0.22,0.67
+2026-02-21,Matchweek 25,Espanyol,Away,2,4,Atlético Madrid,8,2,25,0.25,1
+2026-03-01,Matchweek 26,Espanyol,Away,2,2,Elche,9,4,44.4,0.22,0.5
+2026-03-09,Matchweek 27,Espanyol,Home,1,1,Oviedo,28,9,32.1,0.04,0.11
+2026-03-15,Matchweek 28,Espanyol,Away,1,2,Mallorca,10,2,20,0.1,0.5
+2026-03-21,Matchweek 29,Espanyol,Home,1,2,Getafe,15,5,33.3,0.07,0.2
+2026-04-04,Matchweek 30,Espanyol,Away,0,0,Real Betis,8,1,12.5,0,0
+2025-08-16,Matchweek 1,Real Sociedad,Away,1,1,Valencia,13,3,23.1,0.08,0.33
+2025-08-24,Matchweek 2,Real Sociedad,Home,2,2,Espanyol,15,7,46.7,0.13,0.29
+2025-08-30,Matchweek 3,Real Sociedad,Away,0,1,Oviedo,18,6,33.3,0,0
+2025-09-13,Matchweek 4,Real Sociedad,Home,1,2,Real Madrid,23,4,17.4,0,0
+2025-09-19,Matchweek 5,Real Sociedad,Away,1,3,Real Betis,11,5,45.5,0.09,0.2
+2025-09-24,Matchweek 6,Real Sociedad,Home,1,0,Mallorca,17,4,23.5,0.06,0.25
+2025-09-28,Matchweek 7,Real Sociedad,Away,1,2,Barcelona,7,2,28.6,0.14,0.5
+2025-10-05,Matchweek 8,Real Sociedad,Home,0,1,Rayo Vallecano,10,3,30,0,0
+2025-10-19,Matchweek 9,Real Sociedad,Away,1,1,Celta Vigo,17,7,41.2,0.06,0.14
+2025-10-24,Matchweek 10,Real Sociedad,Home,2,1,Sevilla,5,3,60,0.2,0.33
+2025-11-01,Matchweek 11,Real Sociedad,Home,3,2,Athletic Club,9,5,55.6,0.33,0.6
+2025-11-07,Matchweek 12,Real Sociedad,Away,1,1,Elche,13,5,38.5,0,0
+2025-11-22,Matchweek 13,Real Sociedad,Away,3,1,Osasuna,19,9,47.4,0.16,0.33
+2025-11-30,Matchweek 14,Real Sociedad,Home,2,3,Villarreal,18,7,38.9,0.11,0.29
+2025-12-06,Matchweek 15,Real Sociedad,Away,0,1,Alavés,10,1,10,0,0
+2025-12-12,Matchweek 16,Real Sociedad,Home,1,2,Girona,9,4,44.4,0.11,0.25
+2025-12-20,Matchweek 17,Real Sociedad,Away,1,1,Levante,18,6,33.3,0.06,0.17
+2026-01-04,Matchweek 18,Real Sociedad,Home,1,1,Atlético Madrid,18,8,44.4,0.06,0.13
+2026-01-09,Matchweek 19,Real Sociedad,Away,2,1,Getafe,12,5,41.7,0.17,0.4
+2026-01-18,Matchweek 20,Real Sociedad,Home,2,1,Barcelona,7,6,85.7,0.29,0.33
+2026-01-25,Matchweek 21,Real Sociedad,Home,3,1,Celta Vigo,10,4,40,0.2,0.5
+2026-02-01,Matchweek 22,Real Sociedad,Away,1,1,Athletic Club,8,6,75,0.13,0.17
+2026-02-07,Matchweek 23,Real Sociedad,Home,3,1,Elche,11,3,27.3,0.27,1
+2026-02-14,Matchweek 24,Real Sociedad,Away,1,4,Real Madrid,13,3,23.1,0,0
+2026-02-21,Matchweek 25,Real Sociedad,Home,3,3,Oviedo,15,8,53.3,0.2,0.38
+2026-02-28,Matchweek 26,Real Sociedad,Away,1,0,Mallorca,12,2,16.7,0.08,0.5
+2026-03-07,Matchweek 27,Real Sociedad,Away,2,3,Atlético Madrid,7,3,42.9,0.29,0.67
+2026-03-15,Matchweek 28,Real Sociedad,Home,3,1,Osasuna,15,6,40,0.13,0.33
+2026-03-20,Matchweek 29,Real Sociedad,Away,1,3,Villarreal,11,4,36.4,0.09,0.25
+2026-04-04,Matchweek 30,Real Sociedad,Home,2,0,Levante,18,5,27.8,0.11,0.4
+2025-08-17,Matchweek 1,Getafe,Away,2,0,Celta Vigo,10,3,30,0.2,0.67
+2025-08-25,Matchweek 2,Getafe,Away,2,1,Sevilla,8,6,75,0.25,0.33
+2025-08-29,Matchweek 3,Getafe,Away,0,3,Valencia,11,1,9.1,0,0
+2025-09-13,Matchweek 4,Getafe,Home,2,0,Oviedo,10,3,30,0.2,0.67
+2025-09-21,Matchweek 5,Getafe,Away,0,3,Barcelona,3,2,66.7,0,0
+2025-09-24,Matchweek 6,Getafe,Home,1,1,Alavés,7,1,14.3,0.14,1
+2025-09-27,Matchweek 7,Getafe,Home,1,1,Levante,11,4,36.4,0.09,0.25
+2025-10-03,Matchweek 8,Getafe,Away,1,2,Osasuna,6,2,33.3,0.17,0.5
+2025-10-19,Matchweek 9,Getafe,Home,0,1,Real Madrid,7,1,14.3,0,0
+2025-10-25,Matchweek 10,Getafe,Away,1,0,Athletic Club,8,3,37.5,0.13,0.33
+2025-10-31,Matchweek 11,Getafe,Home,2,1,Girona,12,4,33.3,0.17,0.5
+2025-11-09,Matchweek 12,Getafe,Away,0,1,Mallorca,14,3,21.4,0,0
+2025-11-23,Matchweek 13,Getafe,Home,0,1,Atlético Madrid,9,1,11.1,0,0
+2025-11-28,Matchweek 14,Getafe,Home,1,0,Elche,15,6,40,0.07,0.17
+2025-12-06,Matchweek 15,Getafe,Away,0,2,Villarreal,6,0,0,0,
+2025-12-13,Matchweek 16,Getafe,Home,0,1,Espanyol,11,1,9.1,0,0
+2025-12-21,Matchweek 17,Getafe,Away,0,4,Real Betis,15,3,20,0,0
+2026-01-02,Matchweek 18,Getafe,Away,1,1,Rayo Vallecano,12,4,33.3,0.08,0.25
+2026-01-09,Matchweek 19,Getafe,Home,1,2,Real Sociedad,6,3,50,0.17,0.33
+2026-01-18,Matchweek 20,Getafe,Home,0,1,Valencia,14,3,21.4,0,0
+2026-01-26,Matchweek 21,Getafe,Away,1,1,Girona,8,2,25,0.13,0.5
+2026-02-01,Matchweek 22,Getafe,Home,0,0,Celta Vigo,9,2,22.2,0,0
+2026-02-08,Matchweek 23,Getafe,Away,2,0,Alavés,17,5,29.4,0.06,0.2
+2026-02-14,Matchweek 24,Getafe,Home,2,1,Villarreal,5,2,40,0.2,0.5
+2026-02-22,Matchweek 25,Getafe,Home,0,1,Sevilla,6,3,50,0,0
+2026-03-02,Matchweek 26,Getafe,Away,1,0,Real Madrid,9,3,33.3,0.11,0.33
+2026-03-08,Matchweek 27,Getafe,Home,2,0,Real Betis,9,5,55.6,0.22,0.4
+2026-03-14,Matchweek 28,Getafe,Away,0,1,Atlético Madrid,7,3,42.9,0,0
+2026-03-21,Matchweek 29,Getafe,Away,2,1,Espanyol,10,5,50,0.2,0.4
+2026-04-05,Matchweek 30,Getafe,Home,2,0,Athletic Club,10,6,60,0.2,0.33
+2025-08-17,Matchweek 1,Athletic Club,Home,3,2,Sevilla,14,3,21.4,0.14,0.67
+2025-08-25,Matchweek 2,Athletic Club,Home,1,0,Rayo Vallecano,11,4,36.4,0,0
+2025-08-31,Matchweek 3,Athletic Club,Away,2,1,Real Betis,15,6,40,0.07,0.17
+2025-09-13,Matchweek 4,Athletic Club,Home,0,1,Alavés,12,3,25,0,0
+2025-09-20,Matchweek 5,Athletic Club,Away,0,2,Valencia,11,5,45.5,0,0
+2025-09-23,Matchweek 6,Athletic Club,Home,1,1,Girona,17,5,29.4,0.06,0.2
+2025-09-27,Matchweek 7,Athletic Club,Away,0,1,Villarreal,16,4,25,0,0
+2025-10-04,Matchweek 8,Athletic Club,Home,2,1,Mallorca,18,5,27.8,0.06,0.2
+2025-10-19,Matchweek 9,Athletic Club,Away,0,0,Elche,4,1,25,0,0
+2025-10-25,Matchweek 10,Athletic Club,Home,0,1,Getafe,7,4,57.1,0,0
+2025-11-01,Matchweek 11,Athletic Club,Away,2,3,Real Sociedad,11,4,36.4,0.18,0.5
+2025-11-09,Matchweek 12,Athletic Club,Home,1,0,Oviedo,21,7,33.3,0.05,0.14
+2025-11-22,Matchweek 13,Athletic Club,Away,0,4,Barcelona,13,2,15.4,0,0
+2025-11-29,Matchweek 14,Athletic Club,Away,2,0,Levante,14,4,28.6,0.14,0.5
+2025-12-03,Matchweek 19,Athletic Club,Home,0,3,Real Madrid,9,4,44.4,0,0
+2025-12-06,Matchweek 15,Athletic Club,Home,1,0,Atlético Madrid,14,3,21.4,0.07,0.33
+2025-12-14,Matchweek 16,Athletic Club,Away,0,2,Celta Vigo,14,2,14.3,0,0
+2025-12-22,Matchweek 17,Athletic Club,Home,1,2,Espanyol,17,7,41.2,0.06,0.14
+2026-01-03,Matchweek 18,Athletic Club,Away,1,1,Osasuna,16,6,37.5,0.06,0.17
+2026-01-17,Matchweek 20,Athletic Club,Away,2,3,Mallorca,21,11,52.4,0.1,0.18
+2026-01-24,Matchweek 21,Athletic Club,Away,1,2,Sevilla,15,3,20,0.07,0.33
+2026-02-01,Matchweek 22,Athletic Club,Home,1,1,Real Sociedad,19,4,21.1,0.05,0.25
+2026-02-08,Matchweek 23,Athletic Club,Home,4,2,Levante,22,7,31.8,0.18,0.57
+2026-02-15,Matchweek 24,Athletic Club,Away,2,1,Oviedo,13,4,30.8,0.08,0.25
+2026-02-20,Matchweek 25,Athletic Club,Home,2,1,Elche,18,8,44.4,0.06,0.13
+2026-02-28,Matchweek 26,Athletic Club,Away,1,1,Rayo Vallecano,8,2,25,0.13,0.5
+2026-03-07,Matchweek 27,Athletic Club,Home,0,1,Barcelona,10,3,30,0,0
+2026-03-14,Matchweek 28,Athletic Club,Away,0,3,Girona,20,9,45,0,0
+2026-03-22,Matchweek 29,Athletic Club,Home,2,1,Real Betis,11,6,54.5,0.18,0.33
+2026-04-05,Matchweek 30,Athletic Club,Away,0,2,Getafe,5,0,0,0,0
+2025-08-19,Matchweek 1,Osasuna,Away,0,1,Real Madrid,2,0,0,0,0
+2025-08-24,Matchweek 2,Osasuna,Home,1,0,Valencia,16,4,25,0.06,0.25
+2025-08-31,Matchweek 3,Osasuna,Away,0,1,Espanyol,10,3,30,0,0
+2025-09-14,Matchweek 4,Osasuna,Home,2,0,Rayo Vallecano,9,7,77.8,0.22,0.29
+2025-09-20,Matchweek 5,Osasuna,Away,1,2,Villarreal,6,3,50,0,0
+2025-09-25,Matchweek 6,Osasuna,Home,1,1,Elche,9,2,22.2,0.11,0.5
+2025-09-28,Matchweek 7,Osasuna,Away,0,2,Real Betis,12,1,8.3,0,0
+2025-10-03,Matchweek 8,Osasuna,Home,2,1,Getafe,7,3,42.9,0.29,0.67
+2025-10-18,Matchweek 9,Osasuna,Away,0,1,Atlético Madrid,9,2,22.2,0,0
+2025-10-26,Matchweek 10,Osasuna,Home,2,3,Celta Vigo,17,7,41.2,0.06,0.14
+2025-11-03,Matchweek 11,Osasuna,Away,0,0,Oviedo,11,5,45.5,0,0
+2025-11-08,Matchweek 12,Osasuna,Away,0,1,Sevilla,9,3,33.3,0,0
+2025-11-22,Matchweek 13,Osasuna,Home,1,3,Real Sociedad,14,4,28.6,0.07,0.25
+2025-11-29,Matchweek 14,Osasuna,Away,2,2,Mallorca,14,2,14.3,0.14,1
+2025-12-08,Matchweek 15,Osasuna,Home,2,0,Levante,14,6,42.9,0.14,0.33
+2025-12-13,Matchweek 16,Osasuna,Away,0,2,Barcelona,3,2,66.7,0,0
+2025-12-20,Matchweek 17,Osasuna,Home,3,0,Alavés,16,7,43.8,0.13,0.29
+2026-01-03,Matchweek 18,Osasuna,Home,1,1,Athletic Club,11,4,36.4,0.09,0.25
+2026-01-10,Matchweek 19,Osasuna,Away,0,1,Girona,12,0,0,0,
+2026-01-17,Matchweek 20,Osasuna,Home,3,2,Oviedo,16,5,31.3,0.19,0.6
+2026-01-24,Matchweek 21,Osasuna,Away,3,1,Rayo Vallecano,14,5,35.7,0.14,0.4
+2026-01-31,Matchweek 22,Osasuna,Home,2,2,Villarreal,15,5,33.3,0.13,0.4
+2026-02-06,Matchweek 23,Osasuna,Away,2,1,Celta Vigo,8,2,25,0.25,1
+2026-02-13,Matchweek 24,Osasuna,Away,0,0,Elche,6,2,33.3,0,0
+2026-02-21,Matchweek 25,Osasuna,Home,2,1,Real Madrid,13,2,15.4,0.08,0.5
+2026-03-01,Matchweek 26,Osasuna,Away,0,1,Valencia,8,0,0,0,
+2026-03-07,Matchweek 27,Osasuna,Home,2,2,Mallorca,22,5,22.7,0.09,0.4
+2026-03-15,Matchweek 28,Osasuna,Away,1,3,Real Sociedad,13,5,38.5,0.08,0.2
+2026-03-21,Matchweek 29,Osasuna,Home,1,0,Girona,19,11,57.9,0.05,0.09
+2026-04-05,Matchweek 30,Osasuna,Away,2,2,Alavés,8,5,62.5,0.13,0.2
+2025-08-16,Matchweek 1,Valencia,Home,1,1,Real Sociedad,18,2,11.1,0.06,0.5
+2025-08-24,Matchweek 2,Valencia,Away,0,1,Osasuna,4,1,25,0,0
+2025-08-29,Matchweek 3,Valencia,Home,3,0,Getafe,7,4,57.1,0.43,0.75
+2025-09-14,Matchweek 4,Valencia,Away,0,6,Barcelona,2,1,50,0,0
+2025-09-20,Matchweek 5,Valencia,Home,2,0,Athletic Club,13,5,38.5,0.15,0.4
+2025-09-23,Matchweek 6,Valencia,Away,2,2,Espanyol,5,2,40,0.4,1
+2025-09-30,Matchweek 7,Valencia,Home,1,2,Oviedo,16,5,31.3,0.06,0.2
+2025-10-04,Matchweek 8,Valencia,Away,1,2,Girona,19,6,31.6,0.05,0.17
+2025-10-20,Matchweek 9,Valencia,Away,0,0,Alavés,5,2,40,0,0
+2025-10-25,Matchweek 10,Valencia,Home,0,2,Villarreal,15,3,20,0,0
+2025-11-01,Matchweek 11,Valencia,Away,0,4,Real Madrid,4,1,25,0,0
+2025-11-09,Matchweek 12,Valencia,Home,1,1,Real Betis,17,4,23.5,0.06,0.25
+2025-11-21,Matchweek 13,Valencia,Home,1,0,Levante,14,3,21.4,0.07,0.33
+2025-12-01,Matchweek 14,Valencia,Away,1,1,Rayo Vallecano,10,2,20,0.1,0.5
+2025-12-07,Matchweek 15,Valencia,Home,1,1,Sevilla,11,3,27.3,0.09,0.33
+2025-12-13,Matchweek 16,Valencia,Away,1,2,Atlético Madrid,13,2,15.4,0.08,0.5
+2025-12-19,Matchweek 17,Valencia,Home,1,1,Mallorca,17,2,11.8,0.06,0.5
+2026-01-03,Matchweek 18,Valencia,Away,1,4,Celta Vigo,16,5,31.3,0.06,0.2
+2026-01-10,Matchweek 19,Valencia,Home,1,1,Elche,16,4,25,0,0
+2026-01-18,Matchweek 20,Valencia,Away,1,0,Getafe,7,1,14.3,0.14,1
+2026-01-24,Matchweek 21,Valencia,Home,3,2,Espanyol,10,5,50,0.2,0.4
+2026-02-01,Matchweek 22,Valencia,Away,1,2,Real Betis,15,4,26.7,0.07,0.25
+2026-02-08,Matchweek 23,Valencia,Home,0,2,Real Madrid,7,0,0,0,
+2026-02-15,Matchweek 24,Valencia,Away,2,0,Levante,5,2,40,0.4,1
+2026-02-22,Matchweek 25,Valencia,Away,1,2,Villarreal,8,3,37.5,0,0
+2026-03-01,Matchweek 26,Valencia,Home,1,0,Osasuna,14,1,7.1,0,0
+2026-03-08,Matchweek 27,Valencia,Home,3,2,Alavés,19,8,42.1,0.11,0.25
+2026-03-14,Matchweek 28,Valencia,Away,0,1,Oviedo,13,2,15.4,0,0
+2026-03-21,Matchweek 29,Valencia,Away,2,0,Sevilla,9,4,44.4,0.22,0.5
+2026-04-05,Matchweek 30,Valencia,Home,2,3,Celta Vigo,13,4,30.8,0.15,0.5
+2025-08-15,Matchweek 1,Rayo Vallecano,Away,3,1,Girona,16,5,31.3,0.13,0.4
+2025-08-25,Matchweek 2,Rayo Vallecano,Away,0,1,Athletic Club,6,1,16.7,0,0
+2025-08-31,Matchweek 3,Rayo Vallecano,Home,1,1,Barcelona,12,6,50,0.08,0.17
+2025-09-14,Matchweek 4,Rayo Vallecano,Away,0,2,Osasuna,19,6,31.6,0,0
+2025-09-21,Matchweek 5,Rayo Vallecano,Home,1,1,Celta Vigo,15,5,33.3,0.07,0.2
+2025-09-24,Matchweek 6,Rayo Vallecano,Away,2,3,Atlético Madrid,9,3,33.3,0.22,0.67
+2025-09-28,Matchweek 7,Rayo Vallecano,Home,0,1,Sevilla,18,6,33.3,0,0
+2025-10-05,Matchweek 8,Rayo Vallecano,Away,1,0,Real Sociedad,7,2,28.6,0.14,0.5
+2025-10-19,Matchweek 9,Rayo Vallecano,Away,3,0,Levante,10,5,50,0.3,0.6
+2025-10-26,Matchweek 10,Rayo Vallecano,Home,1,0,Alavés,15,5,33.3,0.07,0.2
+2025-11-01,Matchweek 11,Rayo Vallecano,Away,0,4,Villarreal,13,3,23.1,0,0
+2025-11-09,Matchweek 12,Rayo Vallecano,Home,0,0,Real Madrid,13,2,15.4,0,0
+2025-11-23,Matchweek 13,Rayo Vallecano,Away,0,0,Oviedo,11,3,27.3,0,0
+2025-12-01,Matchweek 14,Rayo Vallecano,Home,1,1,Valencia,19,7,36.8,0.05,0.14
+2025-12-07,Matchweek 15,Rayo Vallecano,Away,0,1,Espanyol,6,2,33.3,0,0
+2025-12-15,Matchweek 16,Rayo Vallecano,Home,0,0,Real Betis,23,7,30.4,0,0
+2025-12-21,Matchweek 17,Rayo Vallecano,Away,0,4,Elche,18,8,44.4,0,0
+2026-01-02,Matchweek 18,Rayo Vallecano,Home,1,1,Getafe,13,4,30.8,0.08,0.25
+2026-01-11,Matchweek 19,Rayo Vallecano,Home,2,1,Mallorca,14,5,35.7,0.07,0.2
+2026-01-18,Matchweek 20,Rayo Vallecano,Away,0,3,Celta Vigo,14,3,21.4,0,0
+2026-01-24,Matchweek 21,Rayo Vallecano,Home,1,3,Osasuna,11,4,36.4,0.09,0.25
+2026-02-01,Matchweek 22,Rayo Vallecano,Away,1,2,Real Madrid,11,4,36.4,0.09,0.25
+2026-02-15,Matchweek 24,Rayo Vallecano,Home,3,0,Atlético Madrid,13,9,69.2,0.23,0.33
+2026-02-21,Matchweek 25,Rayo Vallecano,Away,1,1,Real Betis,12,3,25,0.08,0.33
+2026-02-28,Matchweek 26,Rayo Vallecano,Home,1,1,Athletic Club,15,7,46.7,0.07,0.14
+2026-03-04,Matchweek 23,Rayo Vallecano,Home,3,0,Oviedo,19,7,36.8,0.11,0.29
+2026-03-08,Matchweek 27,Rayo Vallecano,Away,1,1,Sevilla,9,2,22.2,0.11,0.5
+2026-03-16,Matchweek 28,Rayo Vallecano,Home,1,1,Levante,18,4,22.2,0.06,0.25
+2026-03-22,Matchweek 29,Rayo Vallecano,Away,0,1,Barcelona,8,4,50,0,0
+2026-04-03,Matchweek 30,Rayo Vallecano,Home,1,0,Elche,21,5,23.8,0.05,0.2
+2025-08-17,Matchweek 1,Sevilla,Away,2,3,Athletic Club,12,6,50,0.17,0.33
+2025-08-25,Matchweek 2,Sevilla,Home,1,2,Getafe,12,3,25,0,0
+2025-08-30,Matchweek 3,Sevilla,Away,2,0,Girona,13,4,30.8,0.15,0.5
+2025-09-12,Matchweek 4,Sevilla,Home,2,2,Elche,7,3,42.9,0.29,0.67
+2025-09-20,Matchweek 5,Sevilla,Away,2,1,Alavés,9,3,33.3,0.22,0.67
+2025-09-23,Matchweek 6,Sevilla,Home,1,2,Villarreal,16,2,12.5,0.06,0.5
+2025-09-28,Matchweek 7,Sevilla,Away,1,0,Rayo Vallecano,4,1,25,0.25,1
+2025-10-05,Matchweek 8,Sevilla,Home,4,1,Barcelona,13,5,38.5,0.23,0.6
+2025-10-18,Matchweek 9,Sevilla,Home,1,3,Mallorca,13,4,30.8,0.08,0.25
+2025-10-24,Matchweek 10,Sevilla,Away,1,2,Real Sociedad,6,1,16.7,0.17,1
+2025-11-01,Matchweek 11,Sevilla,Away,0,3,Atlético Madrid,10,2,20,0,0
+2025-11-08,Matchweek 12,Sevilla,Home,1,0,Osasuna,10,4,40,0,0
+2025-11-24,Matchweek 13,Sevilla,Away,1,2,Espanyol,22,6,27.3,0.05,0.17
+2025-11-30,Matchweek 14,Sevilla,Home,0,2,Real Betis,9,3,33.3,0,0
+2025-12-07,Matchweek 15,Sevilla,Away,1,1,Valencia,4,1,25,0,0
+2025-12-14,Matchweek 16,Sevilla,Home,4,0,Oviedo,13,7,53.8,0.31,0.57
+2025-12-20,Matchweek 17,Sevilla,Away,0,2,Real Madrid,14,5,35.7,0,0
+2026-01-04,Matchweek 18,Sevilla,Home,0,3,Levante,15,7,46.7,0,0
+2026-01-12,Matchweek 19,Sevilla,Home,0,1,Celta Vigo,7,2,28.6,0,0
+2026-01-19,Matchweek 20,Sevilla,Away,2,2,Elche,25,8,32,0.04,0.13
+2026-01-24,Matchweek 21,Sevilla,Home,2,1,Athletic Club,10,7,70,0.1,0.14
+2026-02-02,Matchweek 22,Sevilla,Away,1,4,Mallorca,15,5,33.3,0.07,0.2
+2026-02-08,Matchweek 23,Sevilla,Home,1,1,Girona,11,3,27.3,0.09,0.33
+2026-02-14,Matchweek 24,Sevilla,Home,1,1,Alavés,4,2,50,0.25,0.5
+2026-02-22,Matchweek 25,Sevilla,Away,1,0,Getafe,6,1,16.7,0.17,1
+2026-03-01,Matchweek 26,Sevilla,Away,2,2,Real Betis,14,6,42.9,0.14,0.33
+2026-03-08,Matchweek 27,Sevilla,Home,1,1,Rayo Vallecano,11,2,18.2,0.09,0.5
+2026-03-15,Matchweek 28,Sevilla,Away,2,5,Barcelona,9,4,44.4,0.22,0.5
+2026-03-21,Matchweek 29,Sevilla,Home,0,2,Valencia,13,2,15.4,0,0
+2026-04-05,Matchweek 30,Sevilla,Away,0,1,Oviedo,9,0,0,0,0
+2025-08-15,Matchweek 1,Girona,Home,1,3,Rayo Vallecano,7,2,28.6,0.14,0.5
+2025-08-24,Matchweek 2,Girona,Away,0,5,Villarreal,5,2,40,0,0
+2025-08-30,Matchweek 3,Girona,Home,0,2,Sevilla,20,5,25,0,0
+2025-09-14,Matchweek 4,Girona,Away,1,1,Celta Vigo,13,8,61.5,0.08,0.13
+2025-09-20,Matchweek 5,Girona,Home,0,4,Levante,7,1,14.3,0,0
+2025-09-23,Matchweek 6,Girona,Away,1,1,Athletic Club,6,3,50,0.17,0.33
+2025-09-26,Matchweek 7,Girona,Home,0,0,Espanyol,12,3,25,0,0
+2025-10-04,Matchweek 8,Girona,Home,2,1,Valencia,4,4,100,0.5,0.5
+2025-10-18,Matchweek 9,Girona,Away,1,2,Barcelona,11,4,36.4,0.09,0.25
+2025-10-25,Matchweek 10,Girona,Home,3,3,Oviedo,8,6,75,0.13,0.17
+2025-10-31,Matchweek 11,Girona,Away,1,2,Getafe,8,4,50,0,0
+2025-11-08,Matchweek 12,Girona,Home,1,0,Alavés,10,2,20,0.1,0.5
+2025-11-23,Matchweek 13,Girona,Away,1,1,Real Betis,11,4,36.4,0.09,0.25
+2025-11-30,Matchweek 14,Girona,Home,1,1,Real Madrid,10,4,40,0.1,0.25
+2025-12-07,Matchweek 15,Girona,Away,0,3,Elche,8,4,50,0,0
+2025-12-12,Matchweek 16,Girona,Away,2,1,Real Sociedad,14,3,21.4,0.14,0.67
+2025-12-21,Matchweek 17,Girona,Home,0,3,Atlético Madrid,9,2,22.2,0,0
+2026-01-04,Matchweek 18,Girona,Away,2,1,Mallorca,9,4,44.4,0.11,0.25
+2026-01-10,Matchweek 19,Girona,Home,1,0,Osasuna,8,4,50,0.13,0.25
+2026-01-16,Matchweek 20,Girona,Away,2,0,Espanyol,7,4,57.1,0,0
+2026-01-26,Matchweek 21,Girona,Home,1,1,Getafe,13,4,30.8,0.08,0.25
+2026-01-31,Matchweek 22,Girona,Away,0,1,Oviedo,9,1,11.1,0,0
+2026-02-08,Matchweek 23,Girona,Away,1,1,Sevilla,15,6,40,0.07,0.17
+2026-02-16,Matchweek 24,Girona,Home,2,1,Barcelona,13,9,69.2,0.15,0.22
+2026-02-23,Matchweek 25,Girona,Away,2,2,Alavés,10,5,50,0.2,0.4
+2026-03-01,Matchweek 26,Girona,Home,1,2,Celta Vigo,15,7,46.7,0.07,0.14
+2026-03-07,Matchweek 27,Girona,Away,1,1,Levante,22,5,22.7,0.05,0.2
+2026-03-14,Matchweek 28,Girona,Home,3,0,Athletic Club,14,6,42.9,0.21,0.5
+2026-03-21,Matchweek 29,Girona,Away,0,1,Osasuna,5,0,0,0,0
+2026-04-06,Matchweek 30,Girona,Home,1,0,Villarreal,10,2,20,0,0
+2026-04-10,Matchweek 31,Girona,Away,1,1,Real Madrid,10,2,20,0.1,0.5
+2025-08-16,Matchweek 1,Alaves,Home,2,1,Levante,15,4,26.7,0.13,0.5
+2025-08-22,Matchweek 2,Alaves,Away,0,1,Real Betis,11,5,45.5,0,0
+2025-08-30,Matchweek 3,Alaves,Home,1,1,Atlético Madrid,5,2,40,0,0
+2025-09-13,Matchweek 4,Alaves,Away,1,0,Athletic Club,4,2,50,0,0
+2025-09-20,Matchweek 5,Alaves,Home,1,2,Sevilla,8,5,62.5,0,0
+2025-09-24,Matchweek 6,Alaves,Away,1,1,Getafe,10,4,40,0.1,0.25
+2025-09-27,Matchweek 7,Alaves,Away,0,1,Mallorca,12,3,25,0,0
+2025-10-05,Matchweek 8,Alaves,Home,3,1,Elche,25,5,20,0.08,0.4
+2025-10-20,Matchweek 9,Alaves,Home,0,0,Valencia,13,3,23.1,0,0
+2025-10-26,Matchweek 10,Alaves,Away,0,1,Rayo Vallecano,12,2,16.7,0,0
+2025-11-02,Matchweek 11,Alaves,Home,2,1,Espanyol,13,4,30.8,0.15,0.5
+2025-11-08,Matchweek 12,Alaves,Away,0,1,Girona,14,5,35.7,0,0
+2025-11-22,Matchweek 13,Alaves,Home,0,1,Celta Vigo,5,2,40,0,0
+2025-11-29,Matchweek 14,Alaves,Away,1,3,Barcelona,9,3,33.3,0.11,0.33
+2025-12-06,Matchweek 15,Alaves,Home,1,0,Real Sociedad,14,3,21.4,0,0
+2025-12-14,Matchweek 16,Alaves,Home,1,2,Real Madrid,6,2,33.3,0.17,0.5
+2025-12-20,Matchweek 17,Alaves,Away,0,3,Osasuna,7,3,42.9,0,0
+2026-01-04,Matchweek 18,Alaves,Home,1,1,Oviedo,18,7,38.9,0.06,0.14
+2026-01-10,Matchweek 19,Alaves,Away,1,3,Villarreal,16,5,31.3,0.06,0.2
+2026-01-18,Matchweek 20,Alaves,Away,0,1,Atlético Madrid,8,0,0,0,
+2026-01-25,Matchweek 21,Alaves,Home,2,1,Real Betis,17,9,52.9,0.12,0.22
+2026-01-30,Matchweek 22,Alaves,Away,2,1,Espanyol,11,7,63.6,0.18,0.29
+2026-02-08,Matchweek 23,Alaves,Home,0,2,Getafe,13,5,38.5,0,0
+2026-02-14,Matchweek 24,Alaves,Away,1,1,Sevilla,12,1,8.3,0.08,1
+2026-02-23,Matchweek 25,Alaves,Home,2,2,Girona,17,6,35.3,0.12,0.33
+2026-02-27,Matchweek 26,Alaves,Away,0,2,Levante,17,7,41.2,0,0
+2026-03-08,Matchweek 27,Alaves,Away,2,3,Valencia,10,4,40,0.1,0.25
+2026-03-13,Matchweek 28,Alaves,Home,1,1,Villarreal,8,0,0,0,0
+2026-03-22,Matchweek 29,Alaves,Away,4,3,Celta Vigo,14,6,42.9,0.29,0.67
+2026-04-05,Matchweek 30,Alaves,Home,2,2,Osasuna,18,6,33.3,0.06,0.17
+2025-08-18,Matchweek 1,Elche,Home,1,1,Real Betis,6,2,33.3,0.17,0.5
+2025-08-23,Matchweek 2,Elche,Away,1,1,Atlético Madrid,6,2,33.3,0.17,0.5
+2025-08-29,Matchweek 3,Elche,Home,2,0,Levante,16,5,31.3,0.13,0.4
+2025-09-12,Matchweek 4,Elche,Away,2,2,Sevilla,5,2,40,0.4,1
+2025-09-21,Matchweek 5,Elche,Home,1,0,Oviedo,15,5,33.3,0.07,0.2
+2025-09-25,Matchweek 6,Elche,Away,1,1,Osasuna,12,4,33.3,0.08,0.25
+2025-09-28,Matchweek 7,Elche,Home,2,1,Celta Vigo,17,8,47.1,0.12,0.25
+2025-10-05,Matchweek 8,Elche,Away,1,3,Alavés,6,3,50,0.17,0.33
+2025-10-19,Matchweek 9,Elche,Home,0,0,Athletic Club,15,5,33.3,0,0
+2025-10-25,Matchweek 10,Elche,Away,0,1,Espanyol,13,4,30.8,0,0
+2025-11-02,Matchweek 11,Elche,Away,1,3,Barcelona,9,3,33.3,0.11,0.33
+2025-11-07,Matchweek 12,Elche,Home,1,1,Real Sociedad,12,3,25,0.08,0.33
+2025-11-23,Matchweek 13,Elche,Home,2,2,Real Madrid,15,6,40,0.13,0.33
+2025-11-28,Matchweek 14,Elche,Away,0,1,Getafe,9,4,44.4,0,0
+2025-12-07,Matchweek 15,Elche,Home,3,0,Girona,11,6,54.5,0.27,0.5
+2025-12-13,Matchweek 16,Elche,Away,1,3,Mallorca,9,0,0,0,
+2025-12-21,Matchweek 17,Elche,Home,4,0,Rayo Vallecano,18,6,33.3,0.22,0.67
+2026-01-03,Matchweek 18,Elche,Home,1,3,Villarreal,15,2,13.3,0.07,0.5
+2026-01-10,Matchweek 19,Elche,Away,1,1,Valencia,5,1,20,0.2,1
+2026-01-19,Matchweek 20,Elche,Home,2,2,Sevilla,10,5,50,0.2,0.4
+2026-01-23,Matchweek 21,Elche,Away,2,3,Levante,6,3,50,0.33,0.67
+2026-01-31,Matchweek 22,Elche,Home,1,3,Barcelona,9,3,33.3,0.11,0.33
+2026-02-07,Matchweek 23,Elche,Away,1,3,Real Sociedad,11,5,45.5,0.09,0.2
+2026-02-13,Matchweek 24,Elche,Home,0,0,Osasuna,17,5,29.4,0,0
+2026-02-20,Matchweek 25,Elche,Away,1,2,Athletic Club,2,2,100,0,0
+2026-03-01,Matchweek 26,Elche,Home,2,2,Espanyol,17,9,52.9,0.06,0.11
+2026-03-08,Matchweek 27,Elche,Away,1,2,Villarreal,13,6,46.2,0.08,0.17
+2026-03-14,Matchweek 28,Elche,Away,1,4,Real Madrid,11,1,9.1,0,0
+2026-03-21,Matchweek 29,Elche,Home,2,1,Mallorca,13,4,30.8,0.15,0.5
+2026-04-03,Matchweek 30,Elche,Away,0,1,Rayo Vallecano,9,4,44.4,0,0
+2025-08-16,Matchweek 1,Mallorca,Home,0,3,Barcelona,4,1,25,0,0
+2025-08-23,Matchweek 2,Mallorca,Home,1,1,Celta Vigo,12,4,33.3,0.08,0.25
+2025-08-30,Matchweek 3,Mallorca,Away,1,2,Real Madrid,9,5,55.6,0.11,0.2
+2025-09-15,Matchweek 4,Mallorca,Away,2,3,Espanyol,24,10,41.7,0.04,0.1
+2025-09-21,Matchweek 5,Mallorca,Home,1,1,Atlético Madrid,8,3,37.5,0.13,0.33
+2025-09-24,Matchweek 6,Mallorca,Away,0,1,Real Sociedad,7,3,42.9,0,0
+2025-09-27,Matchweek 7,Mallorca,Home,1,0,Alavés,12,3,25,0.08,0.33
+2025-10-04,Matchweek 8,Mallorca,Away,1,2,Athletic Club,6,2,33.3,0.17,0.5
+2025-10-18,Matchweek 9,Mallorca,Away,3,1,Sevilla,7,6,85.7,0.43,0.5
+2025-10-26,Matchweek 10,Mallorca,Home,1,1,Levante,20,4,20,0.05,0.25
+2025-11-02,Matchweek 11,Mallorca,Away,0,3,Real Betis,14,1,7.1,0,0
+2025-11-09,Matchweek 12,Mallorca,Home,1,0,Getafe,6,4,66.7,0.17,0.25
+2025-11-22,Matchweek 13,Mallorca,Away,1,2,Villarreal,9,3,33.3,0.11,0.33
+2025-11-29,Matchweek 14,Mallorca,Home,2,2,Osasuna,7,4,57.1,0.14,0.25
+2025-12-05,Matchweek 15,Mallorca,Away,0,0,Oviedo,13,6,46.2,0,0
+2025-12-13,Matchweek 16,Mallorca,Home,3,1,Elche,15,8,53.3,0.2,0.38
+2025-12-19,Matchweek 17,Mallorca,Away,1,1,Valencia,4,2,50,0.25,0.5
+2026-01-04,Matchweek 18,Mallorca,Home,1,2,Girona,9,2,22.2,0,0
+2026-01-11,Matchweek 19,Mallorca,Away,1,2,Rayo Vallecano,9,2,22.2,0.11,0.5
+2026-01-17,Matchweek 20,Mallorca,Home,3,2,Athletic Club,17,9,52.9,0.12,0.22
+2026-01-25,Matchweek 21,Mallorca,Away,0,3,Atlético Madrid,6,1,16.7,0,0
+2026-02-02,Matchweek 22,Mallorca,Home,4,1,Sevilla,11,7,63.6,0.27,0.43
+2026-02-07,Matchweek 23,Mallorca,Away,0,3,Barcelona,9,4,44.4,0,0
+2026-02-15,Matchweek 24,Mallorca,Home,1,2,Real Betis,14,3,21.4,0.07,0.33
+2026-02-22,Matchweek 25,Mallorca,Away,0,2,Celta Vigo,1,0,0,0,
+2026-02-28,Matchweek 26,Mallorca,Home,0,1,Real Sociedad,6,1,16.7,0,0
+2026-03-07,Matchweek 27,Mallorca,Away,2,2,Osasuna,8,4,50,0.25,0.5
+2026-03-15,Matchweek 28,Mallorca,Home,2,1,Espanyol,26,12,46.2,0.08,0.17
+2026-03-21,Matchweek 29,Mallorca,Away,1,2,Elche,11,4,36.4,0.09,0.25
+2026-04-04,Matchweek 30,Mallorca,Home,2,1,Real Madrid,6,2,33.3,0.33,1
+2025-08-16,Matchweek 1,Levante,Away,1,2,Alavés,7,3,42.9,0.14,0.33
+2025-08-23,Matchweek 2,Levante,Home,2,3,Barcelona,8,5,62.5,0.13,0.2
+2025-08-29,Matchweek 3,Levante,Away,0,2,Elche,11,1,9.1,0,0
+2025-09-14,Matchweek 4,Levante,Home,2,2,Real Betis,5,2,40,0.4,1
+2025-09-20,Matchweek 5,Levante,Away,4,0,Girona,14,7,50,0.29,0.57
+2025-09-23,Matchweek 6,Levante,Home,1,4,Real Madrid,11,2,18.2,0.09,0.5
+2025-09-27,Matchweek 7,Levante,Away,1,1,Getafe,11,3,27.3,0.09,0.33
+2025-10-04,Matchweek 8,Levante,Away,2,0,Oviedo,14,5,35.7,0.14,0.4
+2025-10-19,Matchweek 9,Levante,Home,0,3,Rayo Vallecano,17,4,23.5,0,0
+2025-10-26,Matchweek 10,Levante,Away,1,1,Mallorca,13,5,38.5,0.08,0.2
+2025-11-02,Matchweek 11,Levante,Home,1,2,Celta Vigo,9,3,33.3,0.11,0.33
+2025-11-08,Matchweek 12,Levante,Away,1,3,Atlético Madrid,6,3,50,0.17,0.33
+2025-11-21,Matchweek 13,Levante,Away,0,1,Valencia,7,0,0,0,
+2025-11-29,Matchweek 14,Levante,Home,0,2,Athletic Club,11,4,36.4,0,0
+2025-12-08,Matchweek 15,Levante,Away,0,2,Osasuna,11,5,45.5,0,0
+2025-12-20,Matchweek 17,Levante,Home,1,1,Real Sociedad,13,3,23.1,0,0
+2026-01-04,Matchweek 18,Levante,Away,3,0,Sevilla,6,4,66.7,0.5,0.75
+2026-01-11,Matchweek 19,Levante,Home,1,1,Espanyol,8,2,25,0.13,0.5
+2026-01-17,Matchweek 20,Levante,Away,0,2,Real Madrid,10,0,0,0,
+2026-01-23,Matchweek 21,Levante,Home,3,2,Elche,26,6,23.1,0.12,0.5
+2026-01-31,Matchweek 22,Levante,Home,0,0,Atlético Madrid,10,2,20,0,0
+2026-02-08,Matchweek 23,Levante,Away,2,4,Athletic Club,6,3,50,0.33,0.67
+2026-02-15,Matchweek 24,Levante,Home,0,2,Valencia,9,1,11.1,0,0
+2026-02-18,Matchweek 16,Levante,Home,0,1,Villarreal,16,4,25,0,0
+2026-02-22,Matchweek 25,Levante,Away,0,3,Barcelona,5,2,40,0,0
+2026-02-27,Matchweek 26,Levante,Home,2,0,Alavés,22,5,22.7,0.09,0.4
+2026-03-07,Matchweek 27,Levante,Home,1,1,Girona,14,4,28.6,0.07,0.25
+2026-03-16,Matchweek 28,Levante,Away,1,1,Rayo Vallecano,19,5,26.3,0.05,0.2
+2026-03-21,Matchweek 29,Levante,Home,4,2,Oviedo,20,8,40,0.2,0.5
+2026-04-04,Matchweek 30,Levante,Away,0,2,Real Sociedad,8,4,50,0,0
+2025-08-15,Matchweek 1,Oviedo,Away,0,2,Villarreal,5,4,80,0,0
+2025-08-24,Matchweek 2,Oviedo,Home,0,3,Real Madrid,6,3,50,0,0
+2025-08-30,Matchweek 3,Oviedo,Home,1,0,Real Sociedad,8,1,12.5,0.13,1
+2025-09-13,Matchweek 4,Oviedo,Away,0,2,Getafe,5,1,20,0,0
+2025-09-21,Matchweek 5,Oviedo,Away,0,1,Elche,12,4,33.3,0,0
+2025-09-25,Matchweek 6,Oviedo,Home,1,3,Barcelona,7,3,42.9,0.14,0.33
+2025-09-30,Matchweek 7,Oviedo,Away,2,1,Valencia,10,4,40,0.2,0.5
+2025-10-04,Matchweek 8,Oviedo,Home,0,2,Levante,13,2,15.4,0,0
+2025-10-17,Matchweek 9,Oviedo,Home,0,2,Espanyol,13,4,30.8,0,0
+2025-10-25,Matchweek 10,Oviedo,Away,3,3,Girona,10,5,50,0.2,0.4
+2025-11-03,Matchweek 11,Oviedo,Home,0,0,Osasuna,8,2,25,0,0
+2025-11-09,Matchweek 12,Oviedo,Away,0,1,Athletic Club,4,2,50,0,0
+2025-11-23,Matchweek 13,Oviedo,Home,0,0,Rayo Vallecano,8,3,37.5,0,0
+2025-11-29,Matchweek 14,Oviedo,Away,0,2,Atlético Madrid,12,1,8.3,0,0
+2025-12-05,Matchweek 15,Oviedo,Home,0,0,Mallorca,15,3,20,0,0
+2025-12-14,Matchweek 16,Oviedo,Away,0,4,Sevilla,4,1,25,0,0
+2025-12-20,Matchweek 17,Oviedo,Home,0,0,Celta Vigo,10,3,30,0,0
+2026-01-04,Matchweek 18,Oviedo,Away,1,1,Alavés,18,6,33.3,0.06,0.17
+2026-01-10,Matchweek 19,Oviedo,Home,1,1,Real Betis,13,3,23.1,0.08,0.33
+2026-01-17,Matchweek 20,Oviedo,Away,2,3,Osasuna,13,5,38.5,0.15,0.4
+2026-01-25,Matchweek 21,Oviedo,Away,0,3,Barcelona,12,3,25,0,0
+2026-01-31,Matchweek 22,Oviedo,Home,1,0,Girona,8,4,50,0.13,0.25
+2026-02-15,Matchweek 24,Oviedo,Home,1,2,Athletic Club,7,1,14.3,0.14,1
+2026-02-21,Matchweek 25,Oviedo,Away,3,3,Real Sociedad,14,6,42.9,0.21,0.5
+2026-02-28,Matchweek 26,Oviedo,Home,0,1,Atlético Madrid,16,6,37.5,0,0
+2026-03-04,Matchweek 23,Oviedo,Away,0,3,Rayo Vallecano,8,2,25,0,0
+2026-03-09,Matchweek 27,Oviedo,Away,1,1,Espanyol,6,3,50,0.17,0.33
+2026-03-14,Matchweek 28,Oviedo,Home,1,0,Valencia,11,6,54.5,0.09,0.17
+2026-03-21,Matchweek 29,Oviedo,Away,2,4,Levante,10,2,20,0.1,0.5
+2026-04-05,Matchweek 30,Oviedo,Home,1,0,Sevilla,7,4,57.1,0.14,0.25
