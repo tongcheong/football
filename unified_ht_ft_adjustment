@@ -1,0 +1,32 @@
+# UNIFIED HT/FT ADJUSTMENT
+
+## Favourite HT/FT table
+
+| HT → FT | Adjustment |
+|---|---:|
+| HT Win → FT Win | 0.00 |
+| HT Win → FT Draw | -0.50 |
+| HT Win → FT Loss | -1.00 |
+| HT Draw → FT Win | +0.50 |
+| HT Draw → FT Draw | -0.25 |
+| HT Draw → FT Loss | -0.50 |
+| HT Loss → FT Win | +1.00 |
+| HT Loss → FT Draw | +0.50 |
+| HT Loss → FT Loss | -0.75 |
+
+## Underdog HT/FT table
+
+| HT → FT | Adjustment |
+|---|---:|
+| HT Win → FT Win | +0.50 |
+| HT Win → FT Draw | -0.25 |
+| HT Win → FT Loss | -0.50 |
+| HT Draw → FT Win | +0.75 |
+| HT Draw → FT Draw | +0.00 |
+| HT Draw → FT Loss | -0.25 |
+| HT Loss → FT Win | +1.00 |
+| HT Loss → FT Draw | +0.25 |
+| HT Loss → FT Loss | -0.50 |
+
+## Pick-em
+`HTFTAdj = 0`
