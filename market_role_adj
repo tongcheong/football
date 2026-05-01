@@ -1,0 +1,24 @@
+## Favourite
+
+| Scenario | Adjustment |
+|---|---:|
+| Favourite Home Win | +0.00 |
+| Favourite Home Draw | -0.25 |
+| Favourite Home Loss | -0.50 |
+| Favourite Away Win | +0.50 |
+| Favourite Away Draw | +0.00 |
+| Favourite Away Loss | -0.25 |
+
+## Underdog
+
+| Scenario | Adjustment |
+|---|---:|
+| Underdog Home Win | +0.25 |
+| Underdog Home Draw | +0.00 |
+| Underdog Home Loss | -0.25 |
+| Underdog Away Win | +0.60 |
+| Underdog Away Draw | +0.30 |
+| Underdog Away Loss | +0.00 |
+
+## Pick-em
+`MarketRoleAdj = 0`
