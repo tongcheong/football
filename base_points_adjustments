@@ -1,0 +1,20 @@
+## Raw base points
+
+| Result | BasePts |
+|---|---:|
+| Win | 3 |
+| Draw | 1 |
+| Loss | 0 |
+
+## BasePts_adj
+
+| Role | BasePts_adj |
+|---|---|
+| Pick-em | BasePts |
+| Underdog | BasePts |
+| Narrow Favourite | BasePts × 0.95 |
+| Moderate Favourite | BasePts × 0.90 |
+| Strong Favourite | BasePts × 0.85 |
+
+## Floor rule
+`BasePts_adj = max(0, BasePts_adj)`
