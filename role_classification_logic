@@ -1,0 +1,25 @@
+Role is determined from **Asian Handicap**.
+
+Authoritative rule:
+- any team giving the negative handicap is the favourite
+- do not mirror the rule by venue
+
+## 7.1 Pick-em
+`|AH| ≤ 0.25`
+
+## 7.2 DNB equivalence
+`AH = DNB ≡ 0`
+
+So DNB is treated the same as AH 0.
+
+## 7.3 Narrow Favourite
+`AH = -0.5`
+
+## 7.4 Moderate Favourite
+`AH = -0.75 to -1.25`
+
+## 7.5 Strong Favourite
+`AH ≤ -1.5`
+
+## 7.6 Underdog
+Any non-favourite team in a non-pick-em match.
