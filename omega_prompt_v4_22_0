@@ -59,23 +59,25 @@ Never mix versions.
 
 ## SECTION 2 — AUTHORITATIVE SOURCE PRIORITY
 Priority order:
-Explicit GitHub raw CSV link
-Newly uploaded file in current chat
-Previously locked validated baseline
-Older historical source only if user explicitly requests fallback
+1. Explicit GitHub raw CSV link
+2. Newly uploaded file in current chat
+3. Previously locked validated baseline
+4. Older historical source only if user explicitly requests fallback
+
 If higher-priority source exists, lower-priority sources must not be used.
 
-SECTION 3 — FILE VALIDATION GATE
+## SECTION 3 — FILE VALIDATION GATE
 Before any forecast, for each required file print:
-source path / URL
-rows loaded
-latest match date
-fingerprint hash
-required columns status
+*source path / URL
+* rows loaded
+* latest match date
+* fingerprint hash
+* required columns status
+
 If not validated:
 Forecast aborted.
 
-SECTION 4 — HARD STOP RULE
+## SECTION 4 — HARD STOP RULE
 If file cannot be read, parsed, or validated:
 Allowed output only:
 DATA SOURCE UNAVAILABLE
